@@ -1,0 +1,50 @@
+﻿body {
+}
+
+nav a:link {
+    text-decoration: none;
+}
+
+nav ul li {
+    list-style-type: none;
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+nav li {
+    display: inline;
+    text-align: center;
+}
+
+header {
+    display: block;
+    background-color: palevioletred;
+    height: 90px;
+    margin-top: 10p;
+    padding:30px;
+}
+
+nav a:visited {
+    color: black;
+}
+
+nav a:hover {
+    color: #f5a9c2;
+}
+
+main p {
+    right: 50px;
+    font-size: 30px;
+}
+
+main iframe {
+    width: 300px;
+    height: 200px;
+}
+
+main {
+    display: block;
+    background-image: url(images/abstract-pink-geometric-shapes-background-free-vector.jpg);
+}
